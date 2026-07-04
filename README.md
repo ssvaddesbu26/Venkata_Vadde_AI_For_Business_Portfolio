@@ -39,13 +39,13 @@ I used Generative AI responsibly to support my learning, understand challenging 
 
 ## Included Coursework
 
-> Project 1 Chapter 1: Machine Learning Review
-> Project 2 Chapter 3: Classification
-> Project 3 Chapter 5: Support Vector Machines
-> Project 4 Chapter 6: Decision Trees
-> Project 5 Chapter 8: Dimensionality Reduction
-> Project 6 Chapter 10: Artificial Neural Networks
-> Project 7 Chapter 16: Natural Language Processing
+> Project 1 Chapter 1: Machine Learning Review <br>
+> Project 2 Chapter 3: Classification <br>
+> Project 3 Chapter 5: Support Vector Machines <br>
+> Project 4 Chapter 6: Decision Trees <br>
+> Project 5 Chapter 8: Dimensionality Reduction <br>
+> Project 6 Chapter 10: Artificial Neural Networks <br>
+> Project 7 Chapter 16: Natural Language Processing <br>
 
 ---
 
